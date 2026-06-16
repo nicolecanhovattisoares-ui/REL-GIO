@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 //O JavaScript é uma linguagem WEB
 
 //Variaveis - Valores armazenados na memória do computador
